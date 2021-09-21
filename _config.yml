@@ -21,13 +21,10 @@
 title: Aerodynamics of an F1 car
 email: h1710095@nushigh.edu.sg
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome! This is a website discussing everything about the Formula One aerodynamics. This is for a PC5132 Module Project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kimame04.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Kimame04
 
 # Build settings
 theme: minima
