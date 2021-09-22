@@ -3,10 +3,6 @@ layout: post
 title: "Flexi-Wing"
 ---
 
-# Flexi-Wing
-
-<<<<<<< HEAD
-=======
 ## Introduction
 
 Like the F-duct, this is another effort by teams to manipulate the rear-wing to reduce the amount of drag it causes in the straight portions of the track. It is done by designing the rear wing such that under higher loads (enocuntered at higher speeds), the wing flexes in a way that reduces aerodynamic drag.
@@ -31,15 +27,10 @@ It has also been used in hang-gliders and ultra-light aircraft designs.
 
 However, it must be noted that while bodies cannot achieve infinite stiffness (which results in infinite brittleness), so each body will inevitably experience some form of aerodynamic flex.
 
->>>>>>> 71b8052 (change content)
 ## References
 
 [Official article](https://www.formula1.com/en/latest/article.flexi-wings-what-are-they-and-why-is-everyone-talking-about-them.3NeugNG480UtFMzy77XKiQ.html)
 
-<<<<<<< HEAD
-=======
 [Design](https://www.motorsport.com/f1/news/what-are-flexi-wings-analysis/6512614/)
 
 [Aeroelasticity](https://en.wikipedia.org/wiki/Aeroelasticity)
-
->>>>>>> 71b8052 (change content)

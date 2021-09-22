@@ -21,5 +21,5 @@ Improving downforce enables the car to take corners at higher speeds before the 
 
 Below is an image of a rear wing, a device in Formula One cars that is key to producing downforce.
 
-![TECH TUESDAY: The key change Ferrari made between Friday and Saturday to  claw back some speed in Bahrain | Formula 1®](https://www.formula1.com/content/dam/fom-website/manual/Technical/2020/Bahrain/edit123-20-FERRARI-2021-FLOOR--ARROW--(2).jpg.transform/9col/image.jpg)
+![066-018 RED  BULL  R  WING MONACO ARR.jpg](https://www.formula1.com/content/dam/fom-website/manual/Technical/2018Piola/Singapore/066-018%20RED%20%20BULL%20%20R%20%20WING%20MONACO%20ARR.jpg.transform/9col/image.jpg)
 
