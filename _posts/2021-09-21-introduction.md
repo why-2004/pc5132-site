@@ -2,10 +2,6 @@
 
 layout: post
 title: "Introduction"
-<<<<<<< HEAD
-date:   2021-09-21 16:07:29 +0800
-=======
->>>>>>> 71b8052 (change content)
 ---
 
 # Introduction

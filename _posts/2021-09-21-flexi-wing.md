@@ -1,10 +1,6 @@
 ---
 layout: post
 title: "Flexi-Wing"
-<<<<<<< HEAD
-date: 2021-09-21 21:41:00 +0800
-=======
->>>>>>> 71b8052 (change content)
 ---
 
 # Flexi-Wing
