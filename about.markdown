@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Hello 👋 ! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We are a group of Year 5 Students, Kieran Mendoza, Ray Sim, Wang Hengyue and Ettikudiappan Srivishagan! This is our website for a PC5132 Module Project, and hope you enjoy! 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This website aims to tie in aerodynamics to Formula One, our favourite sport! 🏎 
 
+Formula One is a wonderful sport, combining the best of driver ability with the greatest engineering minds in the world and the unpredictability of the races.
 
-[jekyll-organization]: https://github.com/jekyll
+Hope you enjoy!
