@@ -4,8 +4,6 @@ layout: post
 title: "Introduction"
 ---
 
-# Introduction
-
 In Formula 1 cars (or any form of racing for that matter), aerodynamics matters a lot to the performance of the car.
 
 There are two key goals in aerodynamics in racing
