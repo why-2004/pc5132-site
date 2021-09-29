@@ -3,9 +3,7 @@ layout: post
 title: "Rear Wing Trim and DRS"
 ---
 
-# Rear Wing Trim
-
-## Context
+## Trim
 
 When Formula One teams enter different races each season, they adapt their cars to best suit the track conditions. One such way they maximise the car performance is by manipulating the rear wing shape. This is because each track has different downforce requirements, and so the optimal downforce-drag balance is different for each track.
 
@@ -19,7 +17,7 @@ Here is a rear wing for a high-downforce circuit, Monte Carlo (Monaco Grand Prix
 
 The reason for changing the spec of the rear wing is so that, when the downforce requirement is small, the drag caused by a large rear wing area will outweigh the extra unnecessary downforce. As such, by reducing the wing area, the amount of drag also decreases.
 
-# Drag-reduction System
+## Drag Reduction System
 
 This system (known as DRS) is a system that assists overtaking drivers in getting past the car in front.
 
