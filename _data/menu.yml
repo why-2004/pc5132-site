@@ -1,0 +1,58 @@
+menu_title: Menu
+menu_headline: Hello! We are Team VRKY
+menu_intro: It consists of our names, Kieran, Vishagan, Ray, Hengyue. In this website we hope to enlighten you on the aerodynamics behind the Formula One cars, the fastest form of motor racing!
+show_menu_on_gate_page: False
+minimal_menu: True
+menu_logo: assets/img/avatar.png
+
+menu_pages:
+- title: Menu
+  url: /
+  show_on_home: False
+  icon_name: fas fa-home
+  category: home
+
+- title: Drag
+  url: /category-1.html
+  show_on_home: True
+  image_url: assets/img/drag.jpg
+  icon_name: fas fa-dice
+  category: drag
+  tooltip: How do F1 cars maximise their speed?
+  description: How do the Formula One cars maximise their top speed?
+
+- title: Downforce
+  url: /category-2.html
+  show_on_home: True
+  image_url: assets/img/downforce.jpg
+  icon_name: fas fa-cogs
+  category: downforce
+  tooltip: This is category 2
+  description: How do Formula One cars round corners so quickly?
+
+- title: Applications
+  url: /category-3.html
+  show_on_home: True
+  image_url: assets/img/applications.jpg
+  icon-name: fas fa-cogs
+  category: applications
+  tooltip: This is category 3
+  description: Which F1 cars are notable for having innovating aerodynamic concepts?
+
+- title: About
+  url: about.html
+  show_on_home: False
+  icon_name: fas fa-address-card
+  category: about
+  tooltip: This is about
+
+menu_contacts:
+- faicon: fab fa-github-alt
+  url: 
+  target: _blank
+- faicon: fab fa-twitter
+  url: 
+  target: _blank
+- faicon: fas fa-envelope
+  url:
+  target: 
