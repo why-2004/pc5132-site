@@ -27,7 +27,7 @@ url: "http://kimame04.github.io" # the base hostname & protocol for your site, e
 github_username:  Kimame04
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
