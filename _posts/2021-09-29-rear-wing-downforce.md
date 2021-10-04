@@ -9,7 +9,9 @@ summary: "Apart from style, what does this rear wing contribute, and why has it 
 
  ![img](https://lh5.googleusercontent.com/QPTxyt5rNdPTyjIkgmdI7EEFnkvx8bzUI5BQBZZoY5RGQUMhrfuIy2pwsPGjLm_jcjQCe6CHj1OE4d229wuj-Xa6xPGPFGkJLpvxD07vmKs4hFUmePTxsnNH1YzOE80F8gu_A8TX=s0)![img](https://lh6.googleusercontent.com/YtIAWvuE7fjqMctNxxi5WCxRl09zyWSUijtzw5IBwWETzqSxmi_SLb1H68FBZP1Zz6GxOLJ6-a8ed6_Cn4l9ZDq5Wz4f7mYrZkh_ncKYgEJo6lFOOFUKt0WzooQF9jkvzCECi3x0=s0)
 
-The main role of a rear wing in Formula 1 is to balance the downforce produced by the front of the car, so the front tyres are not overloaded with the stresses of accelerating, breaking and turning while the rear tyres slide all over the place during the lap. Unlike the front wing however, the rear wing works on much simpler principles like Newton’s Third law and the Bernoulli principle. ![img](https://lh4.googleusercontent.com/3a3V8p9-LT6YK0U7zuw79wxMVdkxDa_afR3UlU9xIGZVdhLnzxQCU5SGomtVNa6cNt-y-DnC2JxQF9zShT9XdEpQtZj2_561JL8jMepRCn4Hb8g7YPWJ0VlqckLyrispyeTaKNso=s0)
+The main role of a rear wing in Formula 1 is to balance the downforce produced by the front of the car, so the front tyres are not overloaded with the stresses of accelerating, breaking and turning while the rear tyres slide all over the place during the lap. Unlike the front wing however, the rear wing works on much simpler principles like Newton’s Third law and the Bernoulli principle.
+
+ ![img](https://lh4.googleusercontent.com/3a3V8p9-LT6YK0U7zuw79wxMVdkxDa_afR3UlU9xIGZVdhLnzxQCU5SGomtVNa6cNt-y-DnC2JxQF9zShT9XdEpQtZj2_561JL8jMepRCn4Hb8g7YPWJ0VlqckLyrispyeTaKNso=s0)
 
 Airflow around the rear wing (https://www.presticebdt.com/the-aerodynamics-of-f1-rear-wing-cfd-explained/) 
 

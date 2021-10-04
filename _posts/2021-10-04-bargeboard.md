@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bargebaords"
+title: "Bargeboards"
 category: "downforce"
 summary: "How do they contribute to downforce, and how have teams optimised it?"
 ---
@@ -23,7 +23,7 @@ There are certain airflow, particularly from the wheel, which is turbulent and c
 
 This is what the boomerang aims to avoid - by generating lift, it creates a higher-pressure region around it, thus preventing turbulent air from mixing with the laminar air near the body, mitigating the impact of the interference and preserving as much downforce.
 
-## Elements
+## Vortex-generating elements
 
 <img src="https://www.formula1.com/content/dam/fom-website/manual/Technical/2018Piola/Seasonreview/ferrari%20tech%20Tues%201.jpg.transform/9col/image.jpg" alt="ferrari tech Tues 1.jpg" style="zoom:80%;" />
 
