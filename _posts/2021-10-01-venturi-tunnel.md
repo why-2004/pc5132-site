@@ -2,6 +2,7 @@
 layout: post
 title: "Venturi Effect"
 category: "downforce"
+summary: "How does this principle work, and how does it influence the generation of downforce?"
 ---
 
 <img src="https://i0.wp.com/blog.exair.com/wp-content/uploads/2018/03/venturi.png?resize=760%2C343&ssl=1" alt="Intelligent Compressed Air: Venturi Effect" style="zoom:75%;" />

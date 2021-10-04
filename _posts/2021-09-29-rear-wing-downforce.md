@@ -2,6 +2,7 @@
 layout: post
 title: "Rear Wing"
 category: "downforce"
+summary: "Apart from style, what does this rear wing contribute, and why has it been the centre of development for many teams?"
 ---
 
 **Rear wing**
