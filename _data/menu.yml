@@ -55,11 +55,8 @@ menu_pages:
 
 menu_contacts:
 - faicon: fab fa-github-alt
-  url: 
+  url: https://github.com/Kimame04
   target: _blank
 - faicon: fab fa-twitter
-  url: 
-  target: _blank
-- faicon: fas fa-envelope
-  url:
-  target: 
+  url: https://twitter.com/Kimame04
+  target: _blank 
