@@ -11,6 +11,11 @@ There are two key goals in aerodynamics in racing
 1. Maximise **downforce** (and thus cornering grip)
 2. Minimise **drag** (and thus improve straight-line speed)
 
+<<<<<<< HEAD
+=======
+**What do you want to learn about?**
+
+>>>>>>> new-theme
 ## What is downforce?
 
 > 1. a force, produced by a combination of air resistance and gravity, that acts on a moving vehicle, having the effect of pressing it down towards the ground and giving it increased stability
@@ -21,3 +26,7 @@ Below is an image of a rear wing, a device in Formula One cars that is key to pr
 
 ![066-018 RED  BULL  R  WING MONACO ARR.jpg](https://www.formula1.com/content/dam/fom-website/manual/Technical/2018Piola/Singapore/066-018%20RED%20%20BULL%20%20R%20%20WING%20MONACO%20ARR.jpg.transform/9col/image.jpg)
 
+<<<<<<< HEAD
+=======
+## What is Drag?
+>>>>>>> new-theme

@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
     <head>
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
+=======
+<!doctype html>
+<html>
+  <head>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML">
+>>>>>>> new-theme
       MathJax.Hub.Config({
         "HTML-CSS": {
           availableFonts: ["TeX"],
@@ -23,6 +30,7 @@
         "AssistiveMML": { disabled: true }
       });
     </script>
+<<<<<<< HEAD
   </head>
 
   <body>
@@ -39,4 +47,24 @@
 
   </body>
 
+=======
+    {% if site.data.metaData.cookies.enabled %}
+      <script>
+        {% include cookies.js %}
+      </script>
+    {% endif %}
+    {% include common-head.html %}
+  </head>
+  {% if site.data.menu.minimal_menu %}
+  <body class="is-minimal-menu" >
+  {% else %}
+  <body>
+  {% endif %}
+    {% include menu.html %}
+      <main class="content-layout">
+          {{ content }}
+          {% include footer.html %}
+      </main>
+  </body>
+>>>>>>> new-theme
 </html>

@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+=======
+*.gem
+.bundle
+.jekyll-cache
+.sass-cache
+_site
+Gemfile.lock
+
+# mac
+>>>>>>> new-theme
 .DS_Store

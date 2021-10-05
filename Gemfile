@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -28,5 +29,15 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+=======
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+gemspec
+gem "kramdown-parser-gfm"
+gem "kramdown-syntax-coderay"
+#seo
+gem "jekyll-seo-tag", github: "jekyll/jekyll-seo-tag"
+>>>>>>> new-theme
 
 gem "webrick", "~> 1.7"
