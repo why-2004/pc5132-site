@@ -12,6 +12,13 @@ menu_pages:
   icon_name: 
   category: home
 
+- title: Introduction
+  url: introduction.html
+  show_on_home: False
+  icon_name:
+  category: introduction
+  tooltip: This is intro
+
 - title: Applications
   url: /category-3.html
   show_on_home: True
@@ -39,19 +46,19 @@ menu_pages:
   tooltip: This is category 1
   description: How do Formula One cars maximise their straight-line speed?
 
+- title: Quiz
+  url: quiz.html
+  show_on_home: False
+  icon_name:
+  category: quiz
+  tooltip: This is quiz
+
 - title: About
   url: about.html
   show_on_home: False
   icon_name: 
   category: about
   tooltip: This is about
-
-- title: Quiz
-  url: quiz.html
-  show_on_home: False
-  icon_name: 
-  catgeory: quiz
-  tooltip: This is quiz
 
 menu_contacts:
 - faicon: fab fa-github-alt
