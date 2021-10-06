@@ -2,7 +2,7 @@ menu_title: Menu
 menu_headline: Hello! We are Team VRKY
 menu_intro: It consists of our names, Kieran, Vishagan, Ray, Hengyue. In this website we hope to enlighten you on the aerodynamics behind the Formula One cars, the fastest form of motor racing!
 show_menu_on_gate_page: False
-minimal_menu: False
+minimal_menu: True
 menu_logo: assets/img/avatar.png
 
 menu_pages:
