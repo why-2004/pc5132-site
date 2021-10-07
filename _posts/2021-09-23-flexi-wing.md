@@ -7,7 +7,7 @@ summary: "Can we get the best cornering performance, yet maintain a low drag pro
 
 ## Introduction
 
-Like the F-duct, this is another effort by teams to manipulate the rear-wing to reduce the amount of drag it causes in the straight portions of the track. It is done by designing the rear wing such that under higher loads (enocuntered at higher speeds), the wing flexes in a way that reduces aerodynamic drag.
+Like the F-duct, this is another effort by teams to manipulate the rear-wing to reduce the amount of drag it causes in the straight portions of the track. It is done by designing the rear wing such that under higher loads (encountered at higher speeds), the wing flexes in a way that reduces aerodynamic drag.
 
 It was pioneered by the Red Bull Racing Honda team in 2021, and has gained plenty of controversy from other teams, most notably the Mercedes team. 
 
@@ -29,7 +29,9 @@ It has also been used in hang-gliders and ultra-light aircraft designs.
 
 However, it must be noted that while bodies cannot achieve infinite stiffness (which results in infinite brittleness), so each body will inevitably experience some form of aerodynamic flex.
 
-## References
+### Reducing drag
+
+How exactly does the flexi-wing help? By allowing the wing to bend backward slightly at higher speeds (as encountered on the straights), a flatter front element of the wing is presented to the airflow, slightly reducing aerodynamic surface drag. While this may seem like a minor difference, at the speeds seen in Formula One, even a little bit of drag reduction can help to significantly lower times. ## References
 
 https://www.formula1.com/en/latest/article.flexi-wings-what-are-they-and-why-is-everyone-talking-about-them.3NeugNG480UtFMzy77XKiQ.html
 
