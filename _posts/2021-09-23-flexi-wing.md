@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Flexi-Wing"
+category: "drag"
+summary: "Can we get the best cornering performance, yet maintain a low drag profile in the straights?"
 ---
 
 ## Introduction
@@ -29,8 +31,6 @@ However, it must be noted that while bodies cannot achieve infinite stiffness (w
 
 ## References
 
-[Official article](https://www.formula1.com/en/latest/article.flexi-wings-what-are-they-and-why-is-everyone-talking-about-them.3NeugNG480UtFMzy77XKiQ.html)
+https://www.formula1.com/en/latest/article.flexi-wings-what-are-they-and-why-is-everyone-talking-about-them.3NeugNG480UtFMzy77XKiQ.html
 
-[Design](https://www.motorsport.com/f1/news/what-are-flexi-wings-analysis/6512614/)
-
-[Aeroelasticity](https://en.wikipedia.org/wiki/Aeroelasticity)
+https://www.motorsport.com/f1/news/what-are-flexi-wings-analysis/6512614/
