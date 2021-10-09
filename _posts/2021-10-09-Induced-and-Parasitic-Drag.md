@@ -27,7 +27,7 @@ Skin drag is governed by the equation $F=\int C_f \frac{\rho v^2}{2}dA$ where $C
 
 Form drag, on the other hand, is influenced by the shape of the object. Form drag is generally calculated by experimental design and taking the empirical value of the drag coefficient $c_d$ through wind-tunnel calculations. Although slightly difficult to quantify, the effects and how to lessen them are well known: Form drag can reduced through streamlining, allowing air to pass over the surface in a more laminar manner without inducing vortices, which create further form drag. Reducing form drag is important not just to Formula One, but to other applications like high-speed rail rolling stock design, in order to maximise efficiency and speed.
 
-<img src="/assets/img/shinkansen.png" alt="choo choo" style="zoom:33%;" />
+<img src="/assets/img/shinkansen.jpg" alt="choo choo" style="zoom:33%;" />
 
 ## Overall
 
