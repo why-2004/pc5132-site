@@ -11,7 +11,7 @@ In aviation, induced drag is a phenomenon where moving objects that redirect air
 
 As this diagram shows, induced drag is a side-effect of lift or downforce being generated perpendicular to the effective airflow, thereby creating a horizontal component of effective lift opposite to the direction of travel. This creates an aerodynamic drag force known as "induced drag" or "lift-induced drag".
 
-<img src="https://cdn.discordapp.com/attachments/669830982379110400/896312079588405268/induced_drag_down.png" alt="induced drag go brrrr" style="zoom:100%;" />
+<img src="https://cdn.discordapp.com/attachments/669830982379110400/896312079588405268/induced_drag_down.png" alt="induced drag go brrrr" style="zoom:50%;" />
 
 Unlike parasitic drag, induced drag cannot be reduced through streamlining or using smoother materials: Whenever any lift or downforce is generated, induced drag will be generated. However, it can be reduced through changes to the factors of the aerodynamic features. The effect of induced drag is governed by the equation $D_i=\frac{L^2}{\frac 1 2 \rho_0 V^2_E \pi b^2}$, where $D_i$ is induced drag, $L$ is lift/downforce, $\rho_0$ is the air density, $V_E$ is equivalent airspeed, and $b$ is the wingspan. Clearly, it is inversely proportional to $V_E^2$ and directly proportional to $L^2$, which means that induced drag is reduced as cars get faster and have larger wingspans. Obviously, according to regulations, larger wingspans are infeasible, however, Formula One cars usually travel at such high speeds that induced drag does not dominate over parasitic drag.
 
@@ -33,7 +33,7 @@ Form drag, on the other hand, is influenced by the shape of the object. Form dra
 
 Total drag can be found from the addition of parasitic drag and induced drag. Since parasitic drag generally increases with velocity while induced drag generally decreases with velocity, the graph of drag against velocity looks somewhat like this:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Drag_curves_for_aircraft_in_flight.svg/1280px-Drag_curves_for_aircraft_in_flight.svg.png" alt="what a nice graph" style="zoom:55%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Drag_curves_for_aircraft_in_flight.svg/1280px-Drag_curves_for_aircraft_in_flight.svg.png" alt="what a nice graph" style="zoom:35%;" />
 
 Since F1 cars' speed is somewhere around the center of the curve, both parasitic drag and induced
 
