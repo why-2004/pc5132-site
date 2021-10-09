@@ -11,7 +11,7 @@ In aviation, induced drag is a phenomenon where moving objects that redirect air
 
 As this diagram shows, induced drag is a side-effect of lift or downforce being generated perpendicular to the effective airflow, thereby creating a horizontal component of effective lift opposite to the direction of travel. This creates an aerodynamic drag force known as "induced drag" or "lift-induced drag".
 
-<img src="https://upload.wikimedia.org/wikipedia/en/archive/3/39/20120303202742%21Induce_drag_downwash.png" alt="induced drag go brrrr" style="zoom:100%;" />
+<img src="https://cdn.discordapp.com/attachments/669830982379110400/896312079588405268/induced_drag_down.png" alt="induced drag go brrrr" style="zoom:100%;" />
 
 Unlike parasitic drag, induced drag cannot be reduced through streamlining or using smoother materials: Whenever any lift or downforce is generated, induced drag will be generated. However, it can be reduced through changes to the factors of the aerodynamic features. The effect of induced drag is governed by the equation $D_i=\frac{L^2}{\frac 1 2 \rho_0 V^2_E \pi b^2}$, where $D_i$ is induced drag, $L$ is lift/downforce, $\rho_0$ is the air density, $V_E$ is equivalent airspeed, and $b$ is the wingspan. Clearly, it is inversely proportional to $V_E^2$ and directly proportional to $L^2$, which means that induced drag is reduced as cars get faster and have larger wingspans. Obviously, according to regulations, larger wingspans are infeasible, however, Formula One cars usually travel at such high speeds that induced drag does not dominate over parasitic drag.
 
@@ -27,7 +27,7 @@ Skin drag is governed by the equation $F=\int C_f \frac{\rho v^2}{2}dA$ where $C
 
 Form drag, on the other hand, is influenced by the shape of the object. Form drag is generally calculated by experimental design and taking the empirical value of the drag coefficient $c_d$ through wind-tunnel calculations. Although slightly difficult to quantify, the effects and how to lessen them are well known: Form drag can reduced through streamlining, allowing air to pass over the surface in a more laminar manner without inducing vortices, which create further form drag. Reducing form drag is important not just to Formula One, but to other applications like high-speed rail rolling stock design, in order to maximise efficiency and speed.
 
-<img src="https://www.railway-technology.com/wp-content/uploads/sites/24/2020/02/Image-1-Shinkansen.jpg" alt="choo choo" style="zoom:70%;" />
+<img src="https://cdn.discordapp.com/attachments/669830982379110400/896312109384740894/shinkansen.jpg" alt="choo choo" style="zoom:70%;" />
 
 ## Overall
 
